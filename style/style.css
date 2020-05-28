@@ -1,0 +1,97 @@
+header {
+  font-size: 50px;
+  text-align: center;
+}
+
+section .topNav {
+  overflow: hidden;
+  background-color: #0c614e;
+  margin-bottom: 20px;
+}
+
+section .topNav a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  font-size: 17px;
+}
+
+section .topNav a:hover {
+  background-color: lemonchiffon;
+  color: black;
+}
+
+section img {
+  width: 100%;
+}
+
+section ul {
+  line-height: 350%;
+}
+
+section #discography {
+  height: 300px;
+}
+
+section #discography .disks-l {
+  width: 50%;
+  float: left;
+}
+
+section #discography .disks-r {
+  width: 50%;
+  float: right;
+}
+
+section .gallery-grid {
+  text-align: center;
+}
+
+section .gallery-grid div .image-container {
+  float: left;
+  width: 33.3%;
+  height: 280px;
+}
+
+section .gallery-grid div .image-container .image {
+  height: 250px;
+  width: 99%;
+}
+
+section .player {
+  text-align: center;
+}
+
+section .player iframe {
+  padding: 9px;
+  width: 33%;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+section footer {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 12px;
+}
+
+body {
+  margin: 0;
+  background-color: khaki;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+section {
+  width: 70%;
+  /* text-align: justify; */
+  margin: auto;
+}
+
+h2 {
+  text-align: center;
+  font-size: 50px;
+  font-family: 'Great Vibes', cursive;
+}
+/*# sourceMappingURL=style.css.map */
